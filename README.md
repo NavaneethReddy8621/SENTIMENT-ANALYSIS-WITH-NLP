@@ -1,11 +1,31 @@
 # SENTIMENT-ANALYSIS-WITH-NLP
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: NAVANEETH REDDY ADDLA
+
+INTERN ID : CT04DF1817
+
+DOMAIN : MACHINE LEARNING
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTHOSH
+
+DESCRIPTION :
+
 My project is a simple notebook that shows you how to perform sentiment analysis on customer reviews using TF-IDF vectorization and Logistic Regression.
 
 What’s Inside?
+
 -Data Preprocessing: Cleaning and preparing customer review text for analysis.
+
 -Feature Extraction: Turning words into numbers using TF-IDF.
+
 -Modeling: Training a Logistic Regression model to classify reviews as positive or negative.
+
 -Evaluation: Checking how well our model performs with accuracy, precision, recall, and a confusion matrix.
+
 -Demo Predictions: Try out the model on your own sample reviews!
 
 Commands to run project:
